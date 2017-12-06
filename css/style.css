@@ -1,0 +1,170 @@
+
+.container{
+    width: 800px;
+    margin:0 auto;
+    height: 1000px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+body{
+    background-image: url("../img/bg.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.footer{
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom:0;
+}
+.pdlr40{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.pdt20{
+    padding-top: 20px;
+}
+.inline{
+    display: inline-block!important;
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.right{
+    float:right;
+}
+.navbar{
+    margin:0 auto;
+    height: 75px;
+    margin-top: -8px;
+}
+.nav1{
+    background-image: url("../img/nav1.png") ;
+    height:25px;
+    width:110px;
+    background-repeat: no-repeat;
+
+}
+.nav2{
+    background-image: url("../img/nav2.png") ;
+    height:25px;
+    width:110px;
+    background-repeat: no-repeat;
+   
+}
+.nav3{
+    background-image: url("../img/nav3.png") ;
+    height:25px;
+    width:110px;
+    background-repeat: no-repeat;
+}
+.nav1:hover{
+    background-image: url("../img/nav1-hv.png") ;
+}
+.nav2:hover{
+    background-image: url("../img/nav2-hv.png") ;
+}
+.nav3:hover{
+    background-image: url("../img/nav3-hv.png") ;
+}
+.btn-nav{
+    position: relative;
+    top: -90px;
+    padding-left: 0px;
+}
+.title{
+    margin-top:-20px;
+}
+.info{
+    height: 420px;
+    background-color: black;
+    border:1px solid #ddd;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.loginpage{
+    height: 175px;
+    background-color: black;
+    border:1px solid #ddd;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.mgt10{
+    margin-top: 10px;
+}
+.text-white{
+    color:white;
+}
+.txt-info{
+    color:white;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.control{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.login{
+    background-image: url("../img/btn-login.png") ;
+    height:60px;
+    width:180px;
+}
+.login:hover{
+    background-image: url("../img/btn-login-hv.png") ;
+}
+.cntr{
+    margin: 0 auto;
+}
+.mgr50{
+    margin-left: 100px;
+}
+.mgr51{
+    margin-left: 102px;
+}
+.loginpage input{
+    height: 32px;
+    width: 300px;
+    border-radius:5px;
+}
+.btnlgn{
+    background-image: url("../img/loginred.png") ;
+    width: 84px;
+    height: 84px;
+}
+.btnlgn:hover{
+    background-image: url("../img/loginred-hv.png") ;
+    width: 84px;
+    height: 84px;
+}
+.text-gold{
+    color:#D4AF37!important;
+}
+.mgt5{
+    margin-top: 5px;
+}
+.successpage{
+    height: 440px;
+    background-image: url("../img/bgsuccess.png") ;
+    border:1px solid #ddd;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.btnkeluar{
+    background-image: url("../img/keluar.png") ;
+    width: 180px;
+    height: 60px;
+    margin: 0 auto;
+}
+.btnkeluar:hover{
+    background-image: url("../img/keluar-hv.png") ;
+    width: 180px;
+    height: 60px;
+    margin: 0 auto;
+}
